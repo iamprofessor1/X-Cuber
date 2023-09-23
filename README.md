@@ -1,2 +1,1 @@
-# X-Cuber
-Rubicks Cube Solver
+# rubiks-cube-solver
